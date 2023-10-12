@@ -1,8 +1,8 @@
 # Welcome!
 
 *   🌍  Karlsruhe, Germany
-*   ✉️  Contact: [benjamingrillernr.2@gmail.com](mailto:benjamingrillernr.2@gmail.com)
-*   🚀  Currently working on: [DHBW-Programmieren](http://github.com/denniskp/DHBW-Programmieren/)
+*   ✉️  Contact: [kopp.dennis.a22@student.dhbw-karlsruhe.de](mailto:kopp.dennis.a22@student.dhbw-karlsruhe.de)
+*   🚀  Currently working on: [DHBWhub](https://github.com/SE-TINF22B6/DHBWhub)
 *   🧠  Learning: Java
 
 ### 📚 Languages
