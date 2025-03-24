@@ -20,8 +20,9 @@
 ### 🏢 Organizations
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img title="DHBW" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97464755?v=4&fit=cover" width="50"/>](https://github.com/dhbw-ka-pm/)
-[<img title="DHBW" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97464755?v=4&fit=cover" width="50"/>](https://github.com/CodeSparkApp/)
+[<img title="DHBW" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97464755?v=4&fit=cover" width="50"/>](https://github.com/dhbw-ka-pm/)&nbsp; 
+[<img title="CodeSpark" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97464755?v=4&fit=cover" width="50"/>](https://github.com/CodeSparkApp/)
+
 <div align="center">
 
 [<img src="readme-res/discord.png" height="40" />](https://www.discordapp.com/users/1026862376324169769) &nbsp;
