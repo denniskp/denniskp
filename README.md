@@ -8,7 +8,7 @@
 ### 📚 Languages
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="readme-res/cplusplus.svg" height="40" />](https://www.cplusplus.com/) &nbsp;
+[<img src="readme-res/cplusplus.svg" height="40" />](https://www.cplusplus.com/)  &nbsp;
 [<img src="readme-res/java.svg" height="40" />](https://www.java.com/) &nbsp;
 [<img src="readme-res/python.svg" height="40" />](https://www.python.org/) &nbsp;
 
